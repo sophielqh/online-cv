@@ -48,18 +48,25 @@ career-profile:
     title: Hi, I'm Quanhui! or you can call me Sophie.
     summary: |
       I am a second-year graduate student of Department of Information Management in Peking University, China.
-      I have been working on learning analytics, supervised by Prof. Win-Bin Huang.
-      I am currently looking for potential Ph.D. positions, especially concerning about data science in education.
+      My research interest is learning analytics, educational data science, and adaptive learning system.
+      I am currently looking for potential Ph.D. positions, please feel free to contact me!
       
 education:
-    - degree: MS in Information Management
-      university: Peking University
-      time: 2019 - 2021
+    - degree: Master of Information Science
+      university: Department of Information Management, Peking University, China
+      time: 09/2019 – 07/2021
+      GPA: 3.75/ 4.0
 
-    - degree: BS in Information Management
-      university: Peking University
-      time: 2015 - 2019
+    - degree: Bachelor of Information Management and Information System
+      university: Department of Information Management, Peking University, China
+      time: 09/2015 – 07/2019
+      GPA: 3.57/ 4.0
 
+    - degree: Semester exchange
+      university: Department of Information Management, Hong Kong City University, Hong Kong, China
+      time: 01/2017 – 06/2017
+      GPA: 3.78/ 4.3
+      
 project experiences:
     - role: Lead Developer
       time: 2015 - Present
@@ -98,8 +105,8 @@ project experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-projects:
-    title: Projects
+research:
+    title: Research Experience
     intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
